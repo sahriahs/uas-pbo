@@ -1,4 +1,4 @@
-# PROJEK UAS MK: PBO
+# PROJEK UAS Mata Kuliah: Pemrograman Berbasis Objek
 
 **Nama : Sahriah**
 
