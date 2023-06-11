@@ -1,7 +1,6 @@
 # PROJEK UAS MK: PBO
 
 **Nama : Sahriah**
-
 **NIM  : 2109106087**
 
 Membuat aplikasi mobil listrik dengan ketentuan:
