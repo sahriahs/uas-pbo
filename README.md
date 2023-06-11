@@ -1,7 +1,8 @@
 # PROJEK UAS MK: PBO
 
-**Nama : Sahriah
-**NIM  : 2109106087
+**Nama : Sahriah**
+
+**NIM  : 2109106087**
 
 Membuat aplikasi mobil listrik dengan ketentuan:
 1. Login, CRUD, dan cari
